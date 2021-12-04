@@ -13,8 +13,8 @@ This project is a new version of a website to work with quotes, using React.
 
 ## Technologies
 
-* JavaScript
 * React
+* JavaScript
 * HTML and CSS
 * VisualStudio Code
 * Git
