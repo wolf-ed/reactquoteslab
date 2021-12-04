@@ -14,7 +14,7 @@ This project is a new version of a website to work with quotes, using React.
 ## Technologies
 
 * JavaScript
-* ReactJS
+* React
 * HTML and CSS
 * VisualStudio Code
 * Git
