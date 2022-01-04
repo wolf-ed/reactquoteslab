@@ -3,6 +3,7 @@ body {
 }
 .App-header{
 padding-left: 1em;
+border-bottom: 0.15em white solid;
 }
 h1 {
   color: white;
