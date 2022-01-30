@@ -1,0 +1,14 @@
+
+.app {
+  padding: 1rem;
+}
+
+h1 {
+  color: white;
+  width: fit-content;
+  margin: 1rem auto;
+}
+.navigation {
+  text-align: center;
+  margin: 1rem;
+}
